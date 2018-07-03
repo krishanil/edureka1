@@ -1,0 +1,2 @@
+#iclude <stadio.h>
+
